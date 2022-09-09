@@ -1,2 +1,2 @@
-# EngineREST
- Hive Engine REST API 
+# Streeterville
+ Hive Engine middleware and rest-api 
