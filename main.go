@@ -1,8 +1,9 @@
 package main
 
 import (
-	restRoutes "EngineREST/routes/rest"
 	"net/http"
+
+	restRoutes "Streeterville/routes/rest"
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"

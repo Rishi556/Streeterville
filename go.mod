@@ -1,4 +1,4 @@
-module EngineREST
+module Streeterville
 
 go 1.18
 
